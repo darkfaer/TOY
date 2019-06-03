@@ -1,0 +1,45 @@
+.main{
+	background-image: url(banner.png);
+	height: 800px;
+	background-size: 100% 100%;
+}
+.banner{
+	text-align: center;
+	padding-top: 100px;
+}
+.flex{
+	display: flex;
+}
+.padd{
+	padding-top: 100px;
+	padding-left:200px;
+	}
+.margin{
+	margin-left: 80px;
+}
+.textsize{
+	width: 280px;
+}	
+body{
+	font-family: arial;
+	font-weight: normal
+}
+.design{
+	color: white;
+	font-size: 35px;
+}
+img{
+	margin-right: 20px;
+	margin-top: 20px;
+}
+.color{
+	color: white;
+}
+.margtext{
+	margin-top: 50px;
+}
+.size{
+	font-size: 17px;
+	width: 800px;
+	margin-left: 350px
+}
